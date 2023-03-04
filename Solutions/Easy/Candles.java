@@ -1,7 +1,13 @@
-package Excersises.Easy;
+package Solutions.Easy;
 
+import java.util.Scanner;
 public class Candles {
-    //Your code goes here
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How many friends need candles?");
+        int friends = scanner.nextInt();
+        System.out.println(friends * 9);
+    }
 }
 /*
 It is almost Hanukkah and the store in your town is completely out of candles! You decide to place an order online, and
