@@ -35,5 +35,5 @@ Sample Input
 100
 
 Sample Output
-Pesos
+Dollar
 */
