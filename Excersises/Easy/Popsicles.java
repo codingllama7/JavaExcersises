@@ -1,4 +1,4 @@
-package Excersises;
+package Excersises.Easy;
 
 public class Popsicles {
     //Your code goes here
